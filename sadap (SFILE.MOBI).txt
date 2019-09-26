@@ -1,0 +1,10 @@
+﻿apt update && apt upgrade
+apt install ruby 
+apt install Bash
+apt install git 
+ git clone https://github.com/MrTamfanX/MrSadapWhatsApp
+cd MrSadapWhatsApp
+ls
+chmod +x *
+ls
+sh MrSadapWhatsApp.sh
